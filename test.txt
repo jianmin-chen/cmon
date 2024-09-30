@@ -1,0 +1,4 @@
+`nodemon` comes with a lot of options so I'll slowly add those...things like:
+
+* globbing
+* colors
